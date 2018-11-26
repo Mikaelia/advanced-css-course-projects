@@ -1,9 +1,14 @@
 # CSS Static Websites
 > Built with Sass, Flexbox, and Grid
 
-## Natours
+### Natours
 - Nature travel site
-## Trillo
+### Trillo
 - Hotel booking site using Flexbox
-## Nexter
+### Nexter
 - Luxure housing using Flexbox and Grid
+
+## Up and Running:
+- Clone/download the repository
+- Run `npm install`
+- Run `npm build` to prefix/compile/compress sass
