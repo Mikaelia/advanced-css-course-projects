@@ -1,7 +1,9 @@
-# Course Material and FAQ for my Advanced CSS Course
+# CSS Static Websites
+> Built with Sass, Flexbox, and Grid
 
-Advanced CSS Course Projects:
-
-- ##Natours
-- ##Trillo
-- ##Nexter
+## Natours
+- Nature travel site
+## Trillo
+- Hotel booking site using Flexbox
+## Nexter
+- Luxure housing using Flexbox and Grid
