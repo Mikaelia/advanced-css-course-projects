@@ -1,7 +1,14 @@
-# Course Material and FAQ for my Advanced CSS Course
+# CSS Static Websites
+> Built with Sass, Flexbox, and Grid
 
-Advanced CSS Course Projects:
+### Natours
+- Nature travel site
+### Trillo
+- Hotel booking site using Flexbox
+### Nexter
+- Luxure housing using Flexbox and Grid
 
-- ##Natours
-- ##Trillo
-- ##Nexter
+## Up and Running:
+- Clone/download the repository
+- Run `npm install`
+- Run `npm build` to prefix/compile/compress sass
